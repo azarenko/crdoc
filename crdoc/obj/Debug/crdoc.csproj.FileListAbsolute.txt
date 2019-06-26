@@ -1,0 +1,6 @@
+D:\projects\crdoc\crdoc\bin\Debug\crdoc.exe
+D:\projects\crdoc\crdoc\bin\Debug\crdoc.pdb
+D:\projects\crdoc\crdoc\obj\Debug\crdoc.csprojAssemblyReference.cache
+D:\projects\crdoc\crdoc\obj\Debug\crdoc.csproj.CoreCompileInputs.cache
+D:\projects\crdoc\crdoc\obj\Debug\crdoc.exe
+D:\projects\crdoc\crdoc\obj\Debug\crdoc.pdb
